@@ -1,0 +1,465 @@
+{
+  "version": "1.15.14",
+  "createdAt": 1794135866246,
+  "projectId": "c16c76b6-2ae5-4a2a-8ec1-7da3b32e70e2",
+  "display": {
+    "width": 1920,
+    "height": 1080,
+    "backgroundColor": "#000000"
+  },
+  "timeline": {
+    "startTime": 2954.8750666666665,
+    "fps": 120,
+    "layers": [
+      {
+        "id": "6ce01c78-01aa-43a2-be06-708afa457b9d",
+        "name": "",
+        "visible": true,
+        "muted": false,
+        "volume": 1,
+        "clips": [
+          {
+            "id": "b80c5c02-ce86-4501-bdca-cf9b23543470",
+            "type": "video",
+            "name": "",
+            "mediaDataId": "66ab1e31-2030-4158-b7c7-55d9cc084c03",
+            "subtitlesOffset": 0,
+            "startTime": -88.98333333333333,
+            "duration": 152.51666666666668,
+            "leftTrim": 88.98333333333333,
+            "rightTrim": 43.11666666666667,
+            "filters": [],
+            "effects": [
+              {
+                "id": "b9dcb292-90cf-4d7f-932a-f0b712e0cb54",
+                "effectId": "builtin-adjustment",
+                "provider": "Builtin",
+                "clipId": "b80c5c02-ce86-4501-bdca-cf9b23543470",
+                "properties": [
+                  [
+                    "alpha",
+                    1
+                  ],
+                  [
+                    "red",
+                    1
+                  ],
+                  [
+                    "green",
+                    1
+                  ],
+                  [
+                    "blue",
+                    1
+                  ],
+                  [
+                    "brightness",
+                    1
+                  ],
+                  [
+                    "contrast",
+                    1
+                  ],
+                  [
+                    "hue",
+                    0
+                  ],
+                  [
+                    "saturation",
+                    1
+                  ],
+                  [
+                    "vibrance",
+                    0
+                  ],
+                  [
+                    "gamma",
+                    1
+                  ],
+                  [
+                    "temperature",
+                    0
+                  ],
+                  [
+                    "tint",
+                    0
+                  ]
+                ]
+              }
+            ],
+            "wrapMode": "clamp",
+            "blendMode": "normal",
+            "style": {
+              "clipId": "b80c5c02-ce86-4501-bdca-cf9b23543470",
+              "mediaDataId": "66ab1e31-2030-4158-b7c7-55d9cc084c03",
+              "alpha": 1,
+              "rotation": 0,
+              "position": [
+                960,
+                540
+              ],
+              "scale": [
+                1.4285714285714286,
+                1.4285714285714286
+              ],
+              "crop": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "cropOffset": [
+                0,
+                0
+              ],
+              "zoom": [
+                1,
+                1
+              ],
+              "zIndex": 0,
+              "width": 1344,
+              "height": 720,
+              "cornerRadius": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "relativeCornerRadius": false
+            },
+            "animationController": {
+              "animationInDuration": 0,
+              "animationOutDuration": 0,
+              "animationLoopCount": 1,
+              "loopSmoothing": 0
+            },
+            "isVisible": true,
+            "clipMasks": [],
+            "volume": 1,
+            "muted": false,
+            "playbackSpeed": 1,
+            "perservePitch": true,
+            "volumeFadeInDuration": 0,
+            "volumeFadeInCurve": "tri",
+            "volumeFadeOutDuration": 0,
+            "volumeFadeOutCurve": "tri"
+          }
+        ],
+        "transitions": []
+      },
+      {
+        "id": "5e9da0be-fade-4abe-aebb-0ae59d4a4f3e",
+        "name": "",
+        "visible": true,
+        "muted": false,
+        "volume": 1,
+        "clips": [
+          {
+            "id": "7ae375a1-690a-4886-928f-ccdb16371280",
+            "type": "audio",
+            "name": "",
+            "mediaDataId": "2a29ccf8-350e-4c47-893a-d64c3de41e3a",
+            "subtitlesOffset": 0,
+            "startTime": -0.2833333333333333,
+            "duration": 20.116666666666667,
+            "leftTrim": 0.2833333333333333,
+            "rightTrim": 0,
+            "filters": [],
+            "effects": [],
+            "wrapMode": "clamp",
+            "blendMode": "normal",
+            "style": null,
+            "animationController": {
+              "animationInDuration": 0,
+              "animationOutDuration": 0,
+              "animationLoopCount": 1,
+              "loopSmoothing": 0
+            },
+            "customData": [
+              [
+                "soundboard",
+                {
+                  "soundSlug": "funk-abnormal-ultra-slowed"
+                }
+              ]
+            ],
+            "isVisible": true,
+            "clipMasks": [],
+            "volume": 2.01,
+            "muted": false,
+            "playbackSpeed": 1,
+            "perservePitch": true,
+            "volumeFadeInDuration": 0,
+            "volumeFadeInCurve": "tri",
+            "volumeFadeOutDuration": 0,
+            "volumeFadeOutCurve": "tri"
+          }
+        ],
+        "transitions": []
+      },
+      {
+        "id": "637c2856-9500-4e07-a298-7ab32ebc40e5",
+        "name": "",
+        "visible": true,
+        "muted": false,
+        "volume": 1,
+        "clips": [
+          {
+            "id": "724b77ea-d70f-4ec2-9b65-0b8b45287e1e",
+            "type": "adjustment",
+            "name": "Old Film",
+            "subtitlesOffset": 0,
+            "startTime": -0.075,
+            "duration": 5,
+            "leftTrim": 14.608333333333333,
+            "rightTrim": -15.491666666666667,
+            "filters": [],
+            "effects": [
+              {
+                "id": "8d4d3463-252d-4913-ba57-b1b94b4a82e4",
+                "effectId": "builtin-old-film",
+                "provider": "Builtin",
+                "clipId": "724b77ea-d70f-4ec2-9b65-0b8b45287e1e",
+                "properties": [
+                  [
+                    "sepia",
+                    0.3
+                  ],
+                  [
+                    "noise",
+                    0.3
+                  ],
+                  [
+                    "noiseSize",
+                    1
+                  ],
+                  [
+                    "scratch",
+                    0.5
+                  ],
+                  [
+                    "scratchDensity",
+                    0.3
+                  ],
+                  [
+                    "scratchWidth",
+                    1
+                  ],
+                  [
+                    "vignetting",
+                    0.3
+                  ],
+                  [
+                    "vignettingAlpha",
+                    1
+                  ],
+                  [
+                    "vignettingBlur",
+                    1
+                  ]
+                ]
+              }
+            ],
+            "wrapMode": "clamp",
+            "blendMode": "normal",
+            "style": {
+              "clipId": "724b77ea-d70f-4ec2-9b65-0b8b45287e1e",
+              "alpha": 1,
+              "rotation": 0,
+              "position": [
+                960,
+                540
+              ],
+              "scale": [
+                1,
+                1
+              ],
+              "crop": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "cropOffset": [
+                0,
+                0
+              ],
+              "zoom": [
+                1,
+                1
+              ],
+              "zIndex": 0,
+              "width": 1920,
+              "height": 1080,
+              "cornerRadius": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "relativeCornerRadius": false
+            },
+            "animationController": {
+              "animationInDuration": 0,
+              "animationOutDuration": 0,
+              "animationLoopCount": 1,
+              "loopSmoothing": 0
+            },
+            "customData": [
+              [
+                "isPrefabAdjustment",
+                true
+              ],
+              [
+                "vfxType",
+                "effect"
+              ]
+            ],
+            "isVisible": true,
+            "clipMasks": []
+          }
+        ],
+        "transitions": []
+      }
+    ],
+    "fitDuration": 20.41666666666668,
+    "volume": 1
+  },
+  "library": {
+    "media": [
+      {
+        "id": "66ab1e31-2030-4158-b7c7-55d9cc084c03",
+        "type": "video",
+        "name": "Untitled",
+        "filename": "Untitled",
+        "hash": "08eeb112b582fc17",
+        "mimeType": "",
+        "placeholderClipIds": []
+      },
+      {
+        "id": "2a29ccf8-350e-4c47-893a-d64c3de41e3a",
+        "type": "audio",
+        "name": "Funk Abnormal Ultra Slowed",
+        "filename": "Funk Abnormal Ultra Slowed",
+        "hash": "7c7420229e67950c",
+        "mimeType": "",
+        "placeholderClipIds": []
+      }
+    ],
+    "subtitles": [],
+    "effects": [],
+    "filters": [],
+    "transitions": []
+  },
+  "subtitlesManager": {
+    "textMode": "full",
+    "highlightEnabled": true,
+    "highlightAnimation": "none",
+    "highlightAnimationSpeed": 1,
+    "mainTextStyle": {
+      "color": "#ffffff",
+      "fontSize": 50,
+      "fontWeight": "400",
+      "fontFamily": "Lexend Deca",
+      "fontStyle": "normal",
+      "letterSpacing": 0,
+      "dropShadow": false,
+      "dropShadowAlpha": 1,
+      "dropShadowAngle": 0,
+      "dropShadowBlur": 0,
+      "dropShadowColor": "#000000",
+      "dropShadowDistance": 5,
+      "backgroundColor": "transparent",
+      "backgroundPadding": 0,
+      "backgroundCornerRadius": 0,
+      "strokeThickness": 10,
+      "strokeColor": "#000000",
+      "padding": 0,
+      "wordWrapWidth": 1536,
+      "wordWrap": true,
+      "leading": 0,
+      "lineHeight": 0
+    },
+    "highlightTextStyle": {
+      "color": "#bff83e",
+      "fontSize": 50,
+      "fontWeight": "400",
+      "fontFamily": "Lexend Deca",
+      "fontStyle": "normal",
+      "letterSpacing": 0,
+      "dropShadow": false,
+      "dropShadowAlpha": 1,
+      "dropShadowAngle": 0,
+      "dropShadowBlur": 0,
+      "dropShadowColor": "#000000",
+      "dropShadowDistance": 5,
+      "backgroundColor": "transparent",
+      "backgroundPadding": 0,
+      "backgroundCornerRadius": 0,
+      "strokeThickness": 10,
+      "strokeColor": "#000000",
+      "padding": 0
+    },
+    "position": [
+      960,
+      930
+    ],
+    "scale": 1
+  },
+  "settings": {
+    "m3u8MaxResolution": [
+      1920,
+      1080
+    ],
+    "useInternalTranscoder": true,
+    "clipAudioStoreSamples": true,
+    "clipAudioSampleRate": 150,
+    "clipAudioSampleForceMono": true,
+    "clipAudioMonoMixType": "absolute-average",
+    "clipAudioMonoChannelsWeight": [
+      1,
+      1
+    ],
+    "clipVideoStoreSamples": false,
+    "clipVideoStoreFilmstrip": false,
+    "clipVideoFilmstripInterval": 1,
+    "clipVideoFilmstripMaxFrames": 1.7976931348623157e+308,
+    "clipVideoFilmstripMaxHeight": 80,
+    "clipVideoFilmstripMaxWidth": 1.7976931348623157e+308,
+    "clipVideoFilmstripMaxWorkers": 10,
+    "clipVideoFilmstripKeyframesOnly": true,
+    "clipAudioSeekThreshold": 0.1,
+    "clipVideoSeekThreshold": 0,
+    "clipImageLoadOnInit": false,
+    "clipVideoDynamicLoad": false,
+    "clipVideoDynamicLoadTime": 2,
+    "renderShowPreview": true,
+    "renderMaxQueueSize": 10,
+    "renderThrottleFactor": 1,
+    "renderAudioUseWorker": true,
+    "renderCancelFailTimeout": 10000,
+    "renderVideoUseDirectFrames": true,
+    "renderUseChunkedOutput": true,
+    "renderChunkedOutputMaxSize": 209715200,
+    "renderFixAntialiasDiagonal": true,
+    "decoderUseWebCodecs": true,
+    "decoderPreferredAcceleration": "prefer-hardware",
+    "decoderUseSeparateWorker": false,
+    "decoderUseSubImage": false,
+    "encoderCodec": "h264",
+    "encoderUseWebCodecs": true,
+    "encoderUseAlpha": false,
+    "encoderBitrate": 20000000,
+    "encoderBitrateMode": "variable",
+    "encoderPerformanceMode": "quality",
+    "encoderDeadline": 10000,
+    "encoderCrf": 23,
+    "encoderForcedCodecRFCString": "",
+    "encoderPreferredAcceleration": "prefer-hardware",
+    "encoderKeyframeInterval": 150,
+    "subtitlesScaleOnResize": false,
+    "subtitlesAutoWrapOnResize": false,
+    "viewAutoLayoutOnResize": "prefer-height",
+    "mediaHashAlgorithm": "XXHash64"
+  }
+}
